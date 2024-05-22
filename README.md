@@ -7,7 +7,7 @@
 
 MY PROJECTS
 [#1] WOWSTORE 
-WowStore Billing Billing system designed for Textail Shop.
+WowStore. Billing system designed for Textail Shop.
 
 Features:
 
